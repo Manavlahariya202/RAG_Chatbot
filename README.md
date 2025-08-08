@@ -77,3 +77,6 @@ OPENAI_API_KEY="..."
     * Use the sidebar to upload one or more PDF documents.
     * Click the **"Process Documents"** button and wait for it to finish.
     * Type your questions into the chat box at the bottom and get answers directly from your documents.
+
+## UI
+<img width="1914" height="968" alt="image" src="https://github.com/user-attachments/assets/e40d77ff-26d6-49de-8cc5-e5f4baae2331" />
