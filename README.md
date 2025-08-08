@@ -64,7 +64,7 @@ OPENAI_API_KEY="..."
 
 ---
 
-## 💻 Usage
+## Usage
 
 1.  **Run the Streamlit App:**
     Start the application from your terminal:

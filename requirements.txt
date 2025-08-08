@@ -1,0 +1,22 @@
+# requirements.txt
+
+# Core
+python-dotenv
+openai
+
+# LangChain Framework & Integrations
+langchain
+langchain-openai
+langchain-community
+
+# Document Processing & Vector Store
+pymupdf
+chromadb
+sentence-transformers # Recommended for local embeddings
+
+# Web Application UI
+streamlit
+
+
+gTTS
+streamlit-mic-recorder
